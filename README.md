@@ -1,4 +1,7 @@
-### Hi there 👋
+### A fool want to learn skill and make money
+*  junior embedded software engineer
+*  2018NJAU college of AI
+*  C
 
 <!--
 **Ma70rT0m/Ma70rT0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
